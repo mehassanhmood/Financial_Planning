@@ -7,5 +7,5 @@ To access the data regarding securities asked about in the homework, i shall be 
 After retreiving data , i shall be computing the dollar amount of crypto, stocks and bonds.
 ## Visualizing the portfolio:
 Aggregating the dollar amount of securities in a data frame so that i can visualize the the holdings with help of a pie chart.
-![alt text](Pie Chart.png "Pie Chart")
+![alt text](piechart.jpg "Pie Chart")
 
